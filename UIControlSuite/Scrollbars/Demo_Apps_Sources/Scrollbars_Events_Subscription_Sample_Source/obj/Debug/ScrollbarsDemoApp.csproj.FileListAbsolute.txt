@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\Scrollbars\Demo_Apps_Sources\Scrollbars_Events_Subscription_Sample_Source\bin\Debug\ScrollbarsDemoApp.exe.config
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\Scrollbars\Demo_Apps_Sources\Scrollbars_Events_Subscription_Sample_Source\bin\Debug\ScrollbarsDemoApp.exe
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\Scrollbars\Demo_Apps_Sources\Scrollbars_Events_Subscription_Sample_Source\bin\Debug\ScrollbarsDemoApp.pdb
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\Scrollbars\Demo_Apps_Sources\Scrollbars_Events_Subscription_Sample_Source\bin\Debug\Binarymission.WinForms.Controls.BinaryMenuItem.dll
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\Scrollbars\Demo_Apps_Sources\Scrollbars_Events_Subscription_Sample_Source\bin\Debug\Binarymission.WinForms.Controls.ModernChromeWindow.dll
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\Scrollbars\Demo_Apps_Sources\Scrollbars_Events_Subscription_Sample_Source\bin\Debug\Binarymission.WinForms.Controls.ScrollBars.DLL
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\Scrollbars\Demo_Apps_Sources\Scrollbars_Events_Subscription_Sample_Source\obj\Debug\ScrollbarsDemoApp.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\Scrollbars\Demo_Apps_Sources\Scrollbars_Events_Subscription_Sample_Source\obj\Debug\ScrollbarsDemoApp.Form1.resources
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\Scrollbars\Demo_Apps_Sources\Scrollbars_Events_Subscription_Sample_Source\obj\Debug\ScrollbarsDemoApp.Properties.Resources.resources
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\Scrollbars\Demo_Apps_Sources\Scrollbars_Events_Subscription_Sample_Source\obj\Debug\ScrollbarsDemoApp.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\Scrollbars\Demo_Apps_Sources\Scrollbars_Events_Subscription_Sample_Source\obj\Debug\ScrollbarsDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\Scrollbars\Demo_Apps_Sources\Scrollbars_Events_Subscription_Sample_Source\obj\Debug\ScrollbarsDemoApp.csproj.CopyComplete
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\Scrollbars\Demo_Apps_Sources\Scrollbars_Events_Subscription_Sample_Source\obj\Debug\ScrollbarsDemoApp.exe
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\Scrollbars\Demo_Apps_Sources\Scrollbars_Events_Subscription_Sample_Source\obj\Debug\ScrollbarsDemoApp.pdb

@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\Advanced_Label\Demo_Sources\AdvancedLabelOptionsDemo\bin\Debug\AdvancedLabelOptionsDemo.exe.config
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\Advanced_Label\Demo_Sources\AdvancedLabelOptionsDemo\bin\Debug\AdvancedLabelOptionsDemo.exe
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\Advanced_Label\Demo_Sources\AdvancedLabelOptionsDemo\bin\Debug\AdvancedLabelOptionsDemo.pdb
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\Advanced_Label\Demo_Sources\AdvancedLabelOptionsDemo\bin\Debug\Binarymission.WinForms.Controls.BinaryExtendedLabel.dll
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\Advanced_Label\Demo_Sources\AdvancedLabelOptionsDemo\bin\Debug\Binarymission.WinForms.Controls.ModernChromeWindow.dll
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\Advanced_Label\Demo_Sources\AdvancedLabelOptionsDemo\obj\Debug\AdvancedLabelOptionsDemo.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\Advanced_Label\Demo_Sources\AdvancedLabelOptionsDemo\obj\Debug\AdvancedLabelOptionsDemo.LabelOptionsDemoForm.resources
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\Advanced_Label\Demo_Sources\AdvancedLabelOptionsDemo\obj\Debug\AdvancedLabelOptionsDemo.Properties.Resources.resources
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\Advanced_Label\Demo_Sources\AdvancedLabelOptionsDemo\obj\Debug\AdvancedLabelOptionsDemo.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\Advanced_Label\Demo_Sources\AdvancedLabelOptionsDemo\obj\Debug\AdvancedLabelOptionsDemo.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\Advanced_Label\Demo_Sources\AdvancedLabelOptionsDemo\obj\Debug\AdvancedLabelOptionsDemo.csproj.CopyComplete
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\Advanced_Label\Demo_Sources\AdvancedLabelOptionsDemo\obj\Debug\AdvancedLabelOptionsDemo.exe
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\Advanced_Label\Demo_Sources\AdvancedLabelOptionsDemo\obj\Debug\AdvancedLabelOptionsDemo.pdb

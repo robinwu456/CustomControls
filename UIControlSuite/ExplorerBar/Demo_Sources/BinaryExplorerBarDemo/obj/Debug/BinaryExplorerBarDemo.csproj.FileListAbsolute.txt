@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\ExplorerBar\Demo_Sources\BinaryExplorerBarDemo\bin\Debug\BinaryExplorerBarDemo.exe
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\ExplorerBar\Demo_Sources\BinaryExplorerBarDemo\bin\Debug\BinaryExplorerBarDemo.pdb
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\ExplorerBar\Demo_Sources\BinaryExplorerBarDemo\bin\Debug\Binarymission.WinForms.Controls.BinaryExplorerBar.dll
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\ExplorerBar\Demo_Sources\BinaryExplorerBarDemo\bin\Debug\Binarymission.WinForms.Controls.ModernChromeWindow.dll
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\ExplorerBar\Demo_Sources\BinaryExplorerBarDemo\obj\Debug\BinaryExplorerBarDemo.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\ExplorerBar\Demo_Sources\BinaryExplorerBarDemo\obj\Debug\BinaryExplorerBarDemo.BinaryExplorerBarDemoForm.resources
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\ExplorerBar\Demo_Sources\BinaryExplorerBarDemo\obj\Debug\BinaryExplorerBarDemo.Properties.Resources.resources
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\ExplorerBar\Demo_Sources\BinaryExplorerBarDemo\obj\Debug\BinaryExplorerBarDemo.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\ExplorerBar\Demo_Sources\BinaryExplorerBarDemo\obj\Debug\BinaryExplorerBarDemo.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\ExplorerBar\Demo_Sources\BinaryExplorerBarDemo\obj\Debug\BinaryExplorerBarDemo.csproj.CopyComplete
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\ExplorerBar\Demo_Sources\BinaryExplorerBarDemo\obj\Debug\BinaryExplorerBarDemo.exe
+C:\Users\USER\source\repos\CustomControls\UIControlSuite\ExplorerBar\Demo_Sources\BinaryExplorerBarDemo\obj\Debug\BinaryExplorerBarDemo.pdb
